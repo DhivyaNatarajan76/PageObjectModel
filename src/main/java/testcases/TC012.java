@@ -56,8 +56,8 @@ public class TC012 extends ProjectWrappers {
 		 .enterVerifyMobNo(verifyMobileNum)
 		 .enterEmailID(emailID)
 		 .enterVerifyEmailID(verifyEmailID)
-		 .selectPermState(originState);
-		 //.clickSaveButton();
+		 .selectPermState(originState)
+		 .clickSaveButton();
 		 
 		 
 	}
